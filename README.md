@@ -3,12 +3,14 @@ A Reference for ES5 (Javascript)
 
 # Command Reference
 _ _ proto _ _\
+alert\
 arguments\
 .appendChild\
 break\
 case (see switch)\
 .childNodes\
 .children\
+.className\
 .cloneNode\
 console.log\
 .create\
@@ -30,6 +32,7 @@ else (see if)\
 function\
 .getAttribute\
 .hasAttribute\
+.id\
 if\
 .innerHTML\
 ,insertBefore\
@@ -50,6 +53,7 @@ push\
 replaceChild\
 return\
 .setAttribute\
+.style.backgroundColor \
 switch\
 sum\
 .tagName\
