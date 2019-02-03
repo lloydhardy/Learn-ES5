@@ -2,10 +2,12 @@
 A Reference for ES5 (Javascript)
 
 # Command Reference
+__proto__
 arguments\
 break\
 case (see switch)\
 console.log\
+delete\
 do
 document.getElementById\
 document.write\
@@ -27,8 +29,16 @@ var\
 while\
 window.setTimeout
 
-# More
+# Syntax
 
 Comments\
-Escape Characters
-Operators\
+Escape Characters\
+Operators
+
+# Features
+
+Constructor Functions\
+Objects\
+Object Literals\
+Object Methods\
+Object Properties
