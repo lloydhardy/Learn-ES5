@@ -3,10 +3,12 @@ A Reference for ES5 (Javascript)
 
 # Command Reference
 _ _ proto _ _\
+.addEventListener\
 alert\
 arguments\
 .appendChild\
 break\
+,cancelBubble\
 case (see switch)\
 .childNodes\
 .children\
@@ -42,6 +44,13 @@ instanceof\
 .nextElementSibling\
 .nodeName\
 object\
+.onClick - Triggers when the user clicks an element. Can be applied to any visible element.\
+.onLoad - Triggers on the window when the page has finished loading. Elements requiring external objects, such as <img>, <link>, and <iframe>, also have this event.\
+.onMouseOver - Triggers when the user moves the mouse pointer onto an element.\
+.onMouseOut - Triggers when the user moves the mouse pointer out of an element.\
+.onSubmit - Triggers on <form> element when a form is submitted.\
+.onFocus - Triggers when an element gains input focus. Most often used with form elements.\
+.onBlur - Triggers when input focus is lost. Most often used with form elements.\
 .parentNode\
 parseFloat\
 parseInt\
@@ -50,6 +59,7 @@ pop\
 push\
 .prototype\
 .removeChild\
+.removeEventListener\
 replaceChild\
 return\
 .setAttribute\
@@ -57,12 +67,15 @@ return\
 switch\
 sum\
 .tagName\
+,target\
 .textContent\
 .toLowerCase\
 .toUpperCase\
+.type\
 var\
 while\
-window.setTimeout
+window.setTimeout\
+window.event
 
 # Syntax
 
