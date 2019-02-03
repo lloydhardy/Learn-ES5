@@ -18,9 +18,12 @@ console.log\
 .create\
 .createElement\
 .createTextNode\
+Date\
+date.toGMTString\
 delete\
 do (see while)\
 document.body\
+document.cookie\
 doocument.documentElement\
 document.getElementById\
 document.getElementsByClassName(\
@@ -33,6 +36,7 @@ else (see if)\
 .firstElementChild;
 function\
 .getAttribute\
+.getDate\
 .hasAttribute\
 .id\
 if\
@@ -41,9 +45,10 @@ if\
 instanceof\
 .lastElementChild;
 .length\
+"load"\
 .nextElementSibling\
 .nodeName\
-object\
+Object\
 .onClick - Triggers when the user clicks an element. Can be applied to any visible element.\
 .onLoad - Triggers on the window when the page has finished loading. Elements requiring external objects, such as <img>, <link>, and <iframe>, also have this event.\
 .onMouseOver - Triggers when the user moves the mouse pointer onto an element.\
@@ -63,6 +68,8 @@ push\
 replaceChild\
 return\
 .setAttribute\
+.setDate\
+.split\
 .style.backgroundColor \
 switch\
 sum\
@@ -72,6 +79,7 @@ sum\
 .toLowerCase\
 .toUpperCase\
 .type\
+unescape\
 var\
 while\
 window.setTimeout\
