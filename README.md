@@ -1,4 +1,14 @@
 # Learn-ES5
 A Reference for ES5 (Javascript)
 
-document.write("Hello World");
+# Command Reference
+console.log
+document.getElementById
+document.write
+pop
+push
+var
+
+# More
+
+Escape Characters
