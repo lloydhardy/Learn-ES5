@@ -4,11 +4,16 @@ A Reference for ES5 (Javascript)
 # Command Reference
 _ _ proto _ _\
 arguments\
+.appendChild\
 break\
 case (see switch)\
+.childNodes\
 .children\
+.cloneNode\
 console.log\
 .create\
+.createElement\
+.createTextNode\
 delete\
 do (see while)\
 document.body\
@@ -24,11 +29,15 @@ else (see if)\
 .firstElementChild;
 function\
 if\
+.innerHTML\
+,insertBefore\
 instanceof\
 .lastElementChild;
 .length\
 .nextElementSibling\
+.nodeName\
 object\
+.parentNode\
 parseFloat\
 parseInt\
 pop\
@@ -38,6 +47,8 @@ push\
 return\
 switch\
 sum\
+.tagName\
+.textContent\
 .toLowerCase\
 .toUpperCase\
 var\
