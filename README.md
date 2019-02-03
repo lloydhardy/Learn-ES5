@@ -28,6 +28,8 @@ document.write\
 else (see if)\
 .firstElementChild;
 function\
+.getAttribute\
+.hasAttribute\
 if\
 .innerHTML\
 ,insertBefore\
@@ -44,7 +46,10 @@ pop\
 .previousElementSibling\
 push\
 .prototype\
+.removeChild\
+replaceChild\
 return\
+.setAttribute\
 switch\
 sum\
 .tagName\
