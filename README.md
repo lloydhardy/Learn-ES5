@@ -2,13 +2,13 @@
 A Reference for ES5 (Javascript)
 
 # Command Reference
-console.log
-document.getElementById
-document.write
-pop
-push
-var
+console.log\
+document.getElementById\
+document.write\
+pop\
+push\
+var\
 
 # More
 
-Escape Characters
+Escape Characters\
