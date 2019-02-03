@@ -6,23 +6,33 @@ _ _ proto _ _\
 arguments\
 break\
 case (see switch)\
+.children\
 console.log\
 .create\
 delete\
-do
+do (see while)\
+document.body\
+doocument.documentElement\
 document.getElementById\
 document.getElementsByClassName(\
 document.getElementsByTagName\
+document.head\
+document.querySelector\
+document.querySelectorAll\
 document.write\
 else (see if)\
+.firstElementChild;
 function\
 if\
 instanceof\
+.lastElementChild;
 .length\
+.nextElementSibling\
 object\
 parseFloat\
 parseInt\
 pop\
+.previousElementSibling\
 push\
 .prototype\
 return\
