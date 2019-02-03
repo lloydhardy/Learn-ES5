@@ -11,6 +11,8 @@ console.log\
 delete\
 do
 document.getElementById\
+document.getElementsByClassName(\
+document.getElementsByTagName\
 document.write\
 else (see if)\
 function\
@@ -22,6 +24,7 @@ parseFloat\
 parseInt\
 pop\
 push\
+.prototype\
 return\
 switch\
 sum\
