@@ -2,7 +2,7 @@
 A Reference for ES5 (Javascript)
 
 # Command Reference
-__proto__
+_ _ proto _ _
 arguments\
 break\
 case (see switch)\
