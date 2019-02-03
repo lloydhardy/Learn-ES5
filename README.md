@@ -79,6 +79,7 @@ sum\
 .toLowerCase\
 .toUpperCase\
 .type\
+typeof\
 unescape\
 var\
 while\
