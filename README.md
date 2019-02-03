@@ -14,6 +14,7 @@ document.write\
 else (see if)\
 function\
 if\
+instanceof\
 .length\
 object\
 parseFloat\
