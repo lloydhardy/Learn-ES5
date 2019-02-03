@@ -7,6 +7,7 @@ arguments\
 break\
 case (see switch)\
 console.log\
+.create\
 delete\
 do
 document.getElementById\
