@@ -5,10 +5,16 @@ A Reference for ES5 (Javascript)
 console.log\
 document.getElementById\
 document.write\
+.length\
+parseFloat\
+parseInt\
 pop\
 push\
-var\
+.toLowerCase
+.toUpperCase
+var
 
 # More
 
-Escape Characters\
+Comments\
+Escape Characters
