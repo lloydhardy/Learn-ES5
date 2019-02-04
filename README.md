@@ -53,7 +53,7 @@ Object\
 .onLoad - Triggers on the window when the page has finished loading. Elements requiring external objects, such as <img>, <link>, and <iframe>, also have this event.\
 .onMouseOver - Triggers when the user moves the mouse pointer onto an element.\
 .onMouseOut - Triggers when the user moves the mouse pointer out of an element.\
-.onSubmit - Triggers on <form> element when a form is submitted.\
+.onSubmit - Triggers on &lt;form&gt; element when a form is submitted.\
 .onFocus - Triggers when an element gains input focus. Most often used with form elements.\
 .onBlur - Triggers when input focus is lost. Most often used with form elements.\
 .parentNode\
