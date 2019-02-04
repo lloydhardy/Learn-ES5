@@ -14,7 +14,7 @@ case (see switch)\
 .children\
 .className\
 .cloneNode\
-console.log - <i>Output to javascript console</i>\
+[console.log](console.log.js) - <i>Output to javascript console</i>\
 .create\
 .createElement\
 .createTextNode\
