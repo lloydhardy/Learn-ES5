@@ -4,7 +4,7 @@ A Reference for ES5 (Javascript)
 # Command Reference
 _ _ proto _ _\
 .addEventListener\
-alert\
+[[alert.js|alert]]\
 arguments\
 .appendChild\
 break\
