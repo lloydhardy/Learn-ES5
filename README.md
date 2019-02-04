@@ -1,7 +1,7 @@
 # Learn-ES5
 A Reference for ES5 (Javascript)
 
-# Command Reference
+# Language Reference
 _ _ proto _ _\
 .addEventListener\
 [alert](alert.js) - <i>Output to a popup alert box</i>\
