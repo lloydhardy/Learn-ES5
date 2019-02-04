@@ -8,7 +8,7 @@ _ _ proto _ _\
 arguments\
 .appendChild\
 break\
-,cancelBubble\
+.cancelBubble\
 case (see switch)\
 .childNodes\
 .children\
@@ -26,7 +26,7 @@ document.body\
 document.cookie\
 doocument.documentElement\
 document.getElementById\
-document.getElementsByClassName(\
+document.getElementsByClassName\
 document.getElementsByTagName\
 document.head\
 document.querySelector\
