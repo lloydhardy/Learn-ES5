@@ -4,7 +4,7 @@ A Reference for ES5 (Javascript)
 # Command Reference
 _ _ proto _ _\
 .addEventListener\
-[alert](alert.html) - <i>Popup a message in an alert box</i>\
+[alert](alert.js) - <i>Popup a message in an alert box</i>\
 arguments\
 .appendChild\
 break\
