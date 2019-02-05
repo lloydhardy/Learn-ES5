@@ -1,6 +1,11 @@
 # Learn-ES5
 A Reference for ES5 (Javascript)
 
+# Pre-Requisite
+
+[console.log](console.log.js) - <i>Output to javascript console</i>\
+
+
 # Language Reference
 _ _ proto _ _\
 .addEventListener\
