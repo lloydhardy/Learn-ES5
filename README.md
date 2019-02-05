@@ -18,7 +18,7 @@ case (see switch)\
 .create\
 .createElement\
 .createTextNode\
-Date\
+[Date](date.js)\
 date.toGMTString\
 delete\
 do (see while)\
@@ -32,14 +32,14 @@ document.head\
 document.querySelector\
 document.querySelectorAll\
 document.write\
-else (see if)\
+[else (see if)](if.js)\
 .firstElementChild;
 function\
 .getAttribute\
 .getDate\
 .hasAttribute\
 .id\
-if\
+[if](if.js)\
 .innerHTML\
 ,insertBefore\
 instanceof\
@@ -72,7 +72,7 @@ return\
 .split\
 .style.backgroundColor \
 switch\
-sum\
+[sum](sum.js)\
 .tagName\
 ,target\
 .textContent\
