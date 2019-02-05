@@ -18,7 +18,7 @@ case (see switch)\
 .create\
 .createElement\
 .createTextNode\
-[Date](date.js)\
+[Date](date.js) - <i>Output the current or specieid date.</i>\
 date.toGMTString\
 delete\
 do (see while)\
@@ -32,14 +32,14 @@ document.head\
 document.querySelector\
 document.querySelectorAll\
 document.write\
-[else (see if)](if.js)\
+[else (see if)](if.js) - <i>See [if](if.js)</i>\
 .firstElementChild;
 function\
 .getAttribute\
 .getDate\
 .hasAttribute\
 .id\
-[if](if.js)\
+[if](if.js) - <i>Test a statment to see if the condition is true. Used in conjuctoin with else as an alternative outcome.</i>\
 .innerHTML\
 ,insertBefore\
 instanceof\
@@ -72,7 +72,6 @@ return\
 .split\
 .style.backgroundColor \
 switch\
-[sum](sum.js)\
 .tagName\
 ,target\
 .textContent\
