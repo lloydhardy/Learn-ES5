@@ -3,7 +3,10 @@ A Reference for ES5 (Javascript)
 
 # Pre-Requisite
 
-[console.log](console.log.js) - <i>Output to javascript console</i>
+[console.log](console.log.js) - <i>Output to javascript console</i>\
+[document.write](document.write.js) - <i>Output the specified text to the browser.</i>\
+
+Ability to include a js file in a html page for testing or paste code into &lt;script&gt;&lt;/script&gt; tags in an existing HTML page, as specified in <b>Learn-HTML5</b>.
 
 
 # Language Reference
@@ -36,7 +39,7 @@ document.getElementsByTagName\
 document.head\
 document.querySelector\
 document.querySelectorAll\
-document.write\
+[document.write](document.write.js) - <i>Output the specified text to the browser.</i>\
 [else (see if)](if.js) - <i>See [if](if.js)</i>\
 .firstElementChild;
 function\
