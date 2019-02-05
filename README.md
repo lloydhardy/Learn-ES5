@@ -73,7 +73,7 @@ return\
 .style.backgroundColor \
 switch\
 .tagName\
-,target\
+.target\
 .textContent\
 .toLowerCase\
 .toUpperCase\
