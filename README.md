@@ -50,7 +50,7 @@ instanceof\
 .nodeName\
 Object\
 .onClick - Triggers when the user clicks an element. Can be applied to any visible element.\
-.onLoad - Triggers on the window when the page has finished loading. Elements requiring external objects, such as <img>, <link>, and <iframe>, also have this event.\
+.onLoad - Triggers on the window when the page has finished loading. Elements requiring external objects, such as &lt;img&gt;, &lt;link&gt;, and &lt;iframe&gt;, also have this event.\
 .onMouseOver - Triggers when the user moves the mouse pointer onto an element.\
 .onMouseOut - Triggers when the user moves the mouse pointer out of an element.\
 .onSubmit - Triggers on &lt;form&gt; element when a form is submitted.\
