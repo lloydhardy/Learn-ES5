@@ -41,7 +41,7 @@ function\
 .id\
 [if](if.js) - <i>Test a statment to see if the condition is true. Used in conjuctoin with else as an alternative outcome.</i>\
 .innerHTML\
-,insertBefore\
+.insertBefore\
 instanceof\
 .lastElementChild;
 .length\
