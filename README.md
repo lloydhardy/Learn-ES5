@@ -33,7 +33,7 @@ do (see while)\
 document.body\
 document.cookie\
 doocument.documentElement\
-document.getElementById\
+[document.getElementById](document.getElementById.html)\
 document.getElementsByClassName\
 document.getElementsByTagName\
 document.head\
