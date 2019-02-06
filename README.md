@@ -10,7 +10,7 @@ A Reference for ES5 (Javascript)
 # Language Reference
 _ _ proto _ _\
 .addEventListener\
-[alert](alert.js) - <i>Output to a popup alert box</i>\
+[alert](alert.js) - Output to a popup alert box\
 arguments\
 .appendChild\
 break\
@@ -20,11 +20,11 @@ case (see switch)\
 .children\
 .className\
 .cloneNode\
-[console.log](console.log.js) - <i>Output to javascript console</i>\
+[console.log](console.log.js) - Output to javascript console\
 .create\
 .createElement\
 .createTextNode\
-[Date](date.js) - <i>Output the current or specieid date.</i>\
+[Date](date.js) - Output the current or specieid date.\
 date.toGMTString\
 delete\
 do (see while)\
@@ -37,15 +37,15 @@ document.getElementsByTagName\
 document.head\
 document.querySelector\
 document.querySelectorAll\
-[document.write](document.write.js) - <i>Output the specified text to the browser.</i>\
-[else (see if)](if.js) - <i>See [if](if.js)</i>\
+[document.write](document.write.js) - Output the specified text to the browser.\
+[else (see if)](if.js) - See [if](if.js)\
 .firstElementChild;
 function\
 .getAttribute\
 .getDate\
 .hasAttribute\
 .id\
-[if](if.js) - <i>Test a statment to see if the condition is true. Used in conjuctoin with else as an alternative outcome.</i>\
+[if](if.js) - Test a statment to see if the condition is true. Used in conjuctoin with else as an alternative outcome.\
 .innerHTML\
 .insertBefore\
 instanceof\
