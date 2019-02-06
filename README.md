@@ -1,10 +1,10 @@
 # Learn-ES5
 A Reference for ES5 (Javascript)
 
-# Pre-Requisite
+# Pre-Requisites
 
-[Learn-HTML5](../Learn-HTML5) - To understand the HTML5 webpage templates used here.\
-[Learn-CSS3](../Learn-CSS3) - To understand the CSS properties used here.
+[Learn-HTML5](https://github.com/lloydhardy/Learn-HTML5) - To understand the HTML5 webpage templates used here.\
+[Learn-CSS3](https://github.com/lloydhardy/Learn-CSS3) - To understand the CSS properties used here.
 
 
 # Language Reference
