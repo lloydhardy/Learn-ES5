@@ -72,7 +72,7 @@ push\
 .removeChild\
 .removeEventListener\
 replaceChild\
-return\
+[return](return.js) - Returns from a function, with specificed value (if any) and ends the processing of the function.\
 .setAttribute\
 .setDate\
 .split\
