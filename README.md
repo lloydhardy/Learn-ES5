@@ -1,4 +1,4 @@
-# Learn-ES5
+# Learn-Javascript-ES5
 A Reference for ES5 (Javascript)
 
 # Pre-Requisites
